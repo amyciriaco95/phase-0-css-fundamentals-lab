@@ -3,3 +3,15 @@ body {
   height: 100%;
   margin: 0;
 }
+
+a {
+  background-color: #FFDD82;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+div#details {
+      float: left;
+}
+
+
